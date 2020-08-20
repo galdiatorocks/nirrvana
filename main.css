@@ -280,6 +280,10 @@ text-align: center;
   border: #dd2a7b 1px solid;
 }
 
+.whatsapp:hover{
+  border: #25d366 1px solid;
+}
+
 .twitter:hover{
   border: #00acee 1px solid;
 }
